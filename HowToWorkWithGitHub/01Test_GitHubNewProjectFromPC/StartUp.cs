@@ -7,6 +7,7 @@ namespace _01Test_GitHubNewProjectFromPC
         public static void Main()
         {
             Console.WriteLine("First branch updated");
+            string secondBranch = "Created secondBranch";
         }
     }
 }
